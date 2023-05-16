@@ -4,3 +4,4 @@ export { default as Menu } from "./Menu";
 export { default as Container } from "./Container";
 export { default as Rating } from "./Rating";
 export { default as Dropdown } from "./Dropdown";
+export { default as Input } from "./Input";
