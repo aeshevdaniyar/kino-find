@@ -3,6 +3,8 @@ export const ROUTES = {
   FILM: "/film",
   SERIES: "/series",
   NEW: "/new",
+  LOGIN: "/login",
+  REGISTER: "/register",
 };
 
 export const menuLinks = [
