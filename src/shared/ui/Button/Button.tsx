@@ -19,7 +19,7 @@ const Button: FC<PropsWithChildren<ButtonProps>> = (props) => {
     outline:
       "border-2 border-grey-25 hover:bg-grey-25 hover:text-grey-900 text-grey-25",
     default: "bg-primary-600 hover:bg-primary-900",
-    link: "text-grey-100 hover:text-primary-900 px-0 py-0",
+    link: "text-grey-100 hover:text-primary-900",
   };
   const buttonShape = {
     circle: "h-10 w-10 rounded-full",
